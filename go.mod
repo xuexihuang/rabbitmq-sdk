@@ -1,4 +1,4 @@
-module rabbitmq-sdk
+module github.com/xuexihuang/rabbitmq-sdk
 
 go 1.21.11
 
